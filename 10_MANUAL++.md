@@ -68,7 +68,13 @@ OOP is a trype of programming in which we create objects and instances of those 
 > <span style="color:#2C6485"> For more information, see <a href="00_INTRODUCTION.md"><span style="color:#2C6485">**00_INTRODUCTION.md**</a>
 
 
+<br>
 
+#### <a id="UMLIntro"><span style="color:#C9A176">01.03 UML</a>
+---------------------
+<br>
+
+UML, or Unified Modeling Language is the standard way to represend OOAD (Object-Oriented Analysis and Design). It is a graphical way to represent classes and their methods, as well as the relationships they have between each-other within a system.
 
 
 

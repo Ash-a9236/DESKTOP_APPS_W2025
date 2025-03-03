@@ -1,3 +1,9 @@
+<!--VARIABLES-->
+
+[#8C8C07]:text
+[#C9A176]:highlight
+[#2C6485]:notes
+
 <span style="color:#8C8CF7">
 
 # <span style="color:#C9A176">DESKTOP APPLICATIONS IN C# 00
@@ -186,9 +192,9 @@ a <span style="color:C9A176">byte</span> is composed of <span style="color:C9A17
 | BIT  |    b   |     1    |     -    |     -     |     -     |     -     |
 | BYTE |    B   |     8    |     1    |     -     |     -     |     -     |
 | KILOBYTE | KB |   8192   |    1024  |     1     |     -     |     -     |
-| MEGABYTE | MB |  8388608 | 1048576  |  1024     |     1     |     -     |
-| GIGABYTE | GB |     -    |1073741824| 1048576   | 1024      |      1    |
-| TERABYTE | TB |     -    |     -    |1073741824 | 1048576   |    1024   |
+| MEGABYTE | MB |  8 388 608 | 1 048 576 |  1024  |     1     |     -     |
+| GIGABYTE | GB |     -    |1 073 741 824| 1 048 576 | 1024   |      1    |
+| TERABYTE | TB |     -    |     -    |1 073 741 824 | 1048576 |   1024   |
 
 
 

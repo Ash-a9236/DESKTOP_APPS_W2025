@@ -74,7 +74,7 @@ ________________
 | GATE  | OPERATOR | EXAMPLE |
 |-------|----------|---------|
 | AND   |    &&    |  a && b |
-| OR    |    ||    |  a || b |
+| OR    |    || fcyc yv g vg     |  a || b |
 | NOT   |     !    |  a ! b  |   
 
 <br>

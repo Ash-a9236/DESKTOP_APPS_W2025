@@ -70,7 +70,7 @@ OOP is a trype of programming in which we create objects and instances of those 
 
 <br>
 
-#### <a id="UMLIntro"><span style="color:#C9A176">01.03 UML</a>
+#### <a id="UMLIntro"><span style="color:#C9A176">01.04 UML</a>
 ---------------------
 <br>
 
